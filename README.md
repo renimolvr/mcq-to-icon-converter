@@ -217,9 +217,9 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## 👤 Author
 
-**Your Name**
+**Renimol V R**
 
-* GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+* GitHub: [@renimolvr](https://github.com/renimolvr)
 
 ---
 
